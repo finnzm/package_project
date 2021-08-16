@@ -1,0 +1,162 @@
+Script started on Mon Aug 16 13:28:23 2021
+]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject]2;finnzurmuehlen@MacBook-Pro]1;..nzm/mlproject]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject[0m[27m[24m[J[01;32m➜  [36mmlproject[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[39C[🐍 lewagon][51D[?1h=[?2004h[4ms[24m[4ms[4mc[24m[4ms[4mc[4mr[24m[24m[1m[31ms[24m[1m[31mc[24m[1m[31mr[1m[31mo[0m[39m[0m[39m[4ms[0m[39m[4mc[0m[39m[4mr[24m[0m[39m [4mr[4mi[24m[4mi[4mp[24m[24m[32ms[24m[32mc[24m[32mr[24m[32mi[24m[32mp[32mt[39m[4m[32ms[4m[32mc[4m[32mr[4m[32mi[4m[32mp[4m[32mt[4m[32ms[24m[39m[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts]2;finnzurmuehlen@MacBook-Pro]1;..oject/scripts]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[41C[🐍 lewagon][53D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;lsmlproject-run
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts]2;finnzurmuehlen@MacBook-Pro]1;..oject/scripts]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[41C[🐍 lewagon][53D[?1h=[?2004h[32mt[39m[1m[31mt[1m[31mo[0m[39m[1m[31mt[1m[31mo[1m[31mu[0m[39m[1m[31mu[1m[31mc[0m[39m[0m[32mt[0m[32mo[0m[32mu[0m[32mc[32mh[39m [4mm[24m[4mm[4ml[24m[4ml[4mp[24m[4mp[4mr[24m[4mr[4mo[24m[4mo[4mj[24m[4mj[4me[24m[4me[4mc[24m[4mc[4mt[24m[4mt[4m-[24m[10D[24mm[24ml[24mp[24mr[24mo[24mj[24me[24mc[24mt[24m-computedist[?1l>[?2004l
+]2;touch mlproject-computedist]1;touch[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts]2;finnzurmuehlen@MacBook-Pro]1;..oject/scripts]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[41C[🐍 lewagon][53D[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mc[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mo[0m[32md[32me[39m [4m.[24m[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts]2;finnzurmuehlen@MacBook-Pro]1;..oject/scripts]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[41C[🐍 lewagon][53D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m[?1l>[?2004l
+]2;tree]1;tree.
+├── mlproject-computedist
+└── mlproject-run
+
+0 directories, 2 files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts]2;finnzurmuehlen@MacBook-Pro]1;..oject/scripts]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[41C[🐍 lewagon][53D[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4m.[24m[4m.[4m.[24m[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject]2;finnzurmuehlen@MacBook-Pro]1;..nzm/mlproject]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject[0m[27m[24m[J[01;32m➜  [36mmlproject[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[39C[🐍 lewagon][51D[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;lsMANIFEST.in        [1m[36mmlproject[39;49m[0m          [1m[36mraw_data[39;49m[0m           setup.py
+Makefile           [1m[36mmlproject.egg-info[39;49m[0m requirements.txt   [1m[36mtests[39;49m[0m
+README.md          [1m[36mnotebooks[39;49m[0m          [1m[36mscripts[39;49m[0m            typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject]2;finnzurmuehlen@MacBook-Pro]1;..nzm/mlproject]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject[0m[27m[24m[J[01;32m➜  [36mmlproject[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[39C[🐍 lewagon][51D[?1h=[?2004h[32mt[39m[32mt[32mr[39m[1m[31mt[1m[31mr[1m[31me[0m[39m[0m[32mt[0m[32mr[0m[32me[32me[39m[?1l>[?2004l
+]2;tree]1;tree.
+├── MANIFEST.in
+├── Makefile
+├── README.md
+├── mlproject
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-38.pyc
+│   │   └── distance.cpython-38.pyc
+│   ├── data
+│   └── distance.py
+├── mlproject.egg-info
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   ├── dependency_links.txt
+│   ├── not-zip-safe
+│   ├── requires.txt
+│   └── top_level.txt
+├── notebooks
+├── raw_data
+├── requirements.txt
+├── scripts
+│   ├── mlproject-computedist
+│   └── mlproject-run
+├── setup.py
+├── tests
+│   └── __init__.py
+└── typescript
+
+8 directories, 19 files
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject]2;finnzurmuehlen@MacBook-Pro]1;..nzm/mlproject]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject[0m[27m[24m[J[01;32m➜  [36mmlproject[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[39C[🐍 lewagon][51D[?1h=[?2004h[1m[31mc[0m[39m[1m[31mc[1m[31mo[0m[39m[1m[31mc[1m[31mo[1m[31md[0m[39m[0m[32mc[0m[32mo[0m[32md[32me[39m [4m.[24m[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject]2;finnzurmuehlen@MacBook-Pro]1;..nzm/mlproject]7;file://MacBook-Pro.fritz.box/Users/finnzurmuehlen/code/finnzm/mlproject[0m[27m[24m[J[01;32m➜  [36mmlproject[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[39C[🐍 lewagon][51D[?1h=[?2004h[7mpip install -e .[27m
+[K[A[28C[27m[32mp[27m[32mi[27m[32mp[39m[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[27m [27m-[27me[27m [27m[4m.[24m[1B [?1l>[?2004l
+]2;pip install -e .]1;pipObtaining file:///Users/finnzurmuehlen/code/finnzm/mlproject
+Requirement already satisfied: pip>=9 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (21.2.2)
+Requirement already satisfied: setuptools>=26 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (49.2.1)
+Requirement already satisfied: twine in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (3.4.2)
+Requirement already satisfied: wheel>=0.29 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (0.36.2)
+Requirement already satisfied: numpy in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.19.5)
+Requirement already satisfied: pandas in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.3.1)
+Requirement already satisfied: scikit-learn in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (0.24.2)
+Requirement already satisfied: black in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (21.7b0)
+Requirement already satisfied: coverage in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (5.5)
+Requirement already satisfied: flake8 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (3.9.2)
+Requirement already satisfied: pytest in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (6.2.4)
+Requirement already satisfied: yapf in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (0.31.0)
+Requirement already satisfied: gcsfs in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (2021.7.0)
+Requirement already satisfied: google-cloud-storage in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.42.0)
+Requirement already satisfied: mlflow in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.19.0)
+Requirement already satisfied: s3fs in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (2021.7.0)
+Requirement already satisfied: six>=1.14 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.15.0)
+Requirement already satisfied: joblib in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.0.1)
+Requirement already satisfied: memoized-property in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.0.3)
+Requirement already satisfied: termcolor in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlproject==1.0) (1.1.0)
+Requirement already satisfied: pathspec<1,>=0.8.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from black->mlproject==1.0) (0.9.0)
+Requirement already satisfied: tomli<2.0.0,>=0.2.6 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from black->mlproject==1.0) (1.2.1)
+Requirement already satisfied: click>=7.1.2 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from black->mlproject==1.0) (8.0.1)
+Requirement already satisfied: appdirs in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from black->mlproject==1.0) (1.4.4)
+Requirement already satisfied: regex>=2020.1.8 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from black->mlproject==1.0) (2021.8.3)
+Requirement already satisfied: mypy-extensions>=0.4.3 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from black->mlproject==1.0) (0.4.3)
+Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from flake8->mlproject==1.0) (0.6.1)
+Requirement already satisfied: pycodestyle<2.8.0,>=2.7.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from flake8->mlproject==1.0) (2.7.0)
+Requirement already satisfied: pyflakes<2.4.0,>=2.3.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from flake8->mlproject==1.0) (2.3.1)
+Requirement already satisfied: fsspec==2021.07.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gcsfs->mlproject==1.0) (2021.7.0)
+Requirement already satisfied: requests in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gcsfs->mlproject==1.0) (2.26.0)
+Requirement already satisfied: aiohttp in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gcsfs->mlproject==1.0) (3.7.4.post0)
+Requirement already satisfied: google-auth>=1.2 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gcsfs->mlproject==1.0) (1.32.1)
+Requirement already satisfied: decorator in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gcsfs->mlproject==1.0) (4.4.2)
+Requirement already satisfied: google-auth-oauthlib in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gcsfs->mlproject==1.0) (0.4.4)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-auth>=1.2->gcsfs->mlproject==1.0) (0.2.8)
+Requirement already satisfied: rsa<5,>=3.1.4 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-auth>=1.2->gcsfs->mlproject==1.0) (4.7.2)
+Requirement already satisfied: cachetools<5.0,>=2.0.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-auth>=1.2->gcsfs->mlproject==1.0) (4.2.2)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from pyasn1-modules>=0.2.1->google-auth>=1.2->gcsfs->mlproject==1.0) (0.4.8)
+Requirement already satisfied: yarl<2.0,>=1.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiohttp->gcsfs->mlproject==1.0) (1.6.3)
+Requirement already satisfied: attrs>=17.3.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiohttp->gcsfs->mlproject==1.0) (21.2.0)
+Requirement already satisfied: chardet<5.0,>=2.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiohttp->gcsfs->mlproject==1.0) (4.0.0)
+Requirement already satisfied: multidict<7.0,>=4.5 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiohttp->gcsfs->mlproject==1.0) (5.1.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiohttp->gcsfs->mlproject==1.0) (3.7.4.3)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiohttp->gcsfs->mlproject==1.0) (3.0.1)
+Requirement already satisfied: idna>=2.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from yarl<2.0,>=1.0->aiohttp->gcsfs->mlproject==1.0) (2.10)
+Requirement already satisfied: requests-oauthlib>=0.7.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-auth-oauthlib->gcsfs->mlproject==1.0) (1.3.0)
+Requirement already satisfied: oauthlib>=3.0.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from requests-oauthlib>=0.7.0->google-auth-oauthlib->gcsfs->mlproject==1.0) (3.1.1)
+Requirement already satisfied: certifi>=2017.4.17 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from requests->gcsfs->mlproject==1.0) (2021.5.30)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from requests->gcsfs->mlproject==1.0) (1.26.6)
+Requirement already satisfied: charset-normalizer~=2.0.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from requests->gcsfs->mlproject==1.0) (2.0.4)
+Requirement already satisfied: google-resumable-media<3.0dev,>=1.3.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-cloud-storage->mlproject==1.0) (1.3.3)
+Requirement already satisfied: google-api-core<3.0dev,>=1.29.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-cloud-storage->mlproject==1.0) (1.31.1)
+Requirement already satisfied: google-cloud-core<3.0dev,>=1.6.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-cloud-storage->mlproject==1.0) (1.7.2)
+Requirement already satisfied: googleapis-common-protos<2.0dev,>=1.6.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-api-core<3.0dev,>=1.29.0->google-cloud-storage->mlproject==1.0) (1.53.0)
+Requirement already satisfied: packaging>=14.3 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-api-core<3.0dev,>=1.29.0->google-cloud-storage->mlproject==1.0) (21.0)
+Requirement already satisfied: protobuf>=3.12.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-api-core<3.0dev,>=1.29.0->google-cloud-storage->mlproject==1.0) (3.17.3)
+Requirement already satisfied: pytz in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-api-core<3.0dev,>=1.29.0->google-cloud-storage->mlproject==1.0) (2021.1)
+Requirement already satisfied: google-crc32c<2.0dev,>=1.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-resumable-media<3.0dev,>=1.3.0->google-cloud-storage->mlproject==1.0) (1.1.2)
+Requirement already satisfied: cffi>=1.0.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from google-crc32c<2.0dev,>=1.0->google-resumable-media<3.0dev,>=1.3.0->google-cloud-storage->mlproject==1.0) (1.14.5)
+Requirement already satisfied: pycparser in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from cffi>=1.0.0->google-crc32c<2.0dev,>=1.0->google-resumable-media<3.0dev,>=1.3.0->google-cloud-storage->mlproject==1.0) (2.20)
+Requirement already satisfied: pyparsing>=2.0.2 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from packaging>=14.3->google-api-core<3.0dev,>=1.29.0->google-cloud-storage->mlproject==1.0) (2.4.7)
+Requirement already satisfied: entrypoints in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (0.3)
+Requirement already satisfied: gitpython>=2.1.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (3.1.18)
+Requirement already satisfied: databricks-cli>=0.8.7 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (0.15.0)
+Requirement already satisfied: docker>=4.0.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (5.0.0)
+Requirement already satisfied: pyyaml>=5.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (5.4.1)
+Requirement already satisfied: cloudpickle in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (1.6.0)
+Requirement already satisfied: querystring-parser in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (1.2.4)
+Requirement already satisfied: alembic<=1.4.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (1.4.1)
+Requirement already satisfied: prometheus-flask-exporter in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (0.18.2)
+Requirement already satisfied: Flask in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (2.0.1)
+Requirement already satisfied: sqlalchemy in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (1.4.22)
+Requirement already satisfied: gunicorn in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (20.1.0)
+Requirement already satisfied: sqlparse>=0.3.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from mlflow->mlproject==1.0) (0.4.1)
+Requirement already satisfied: python-editor>=0.3 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from alembic<=1.4.1->mlflow->mlproject==1.0) (1.0.4)
+Requirement already satisfied: python-dateutil in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from alembic<=1.4.1->mlflow->mlproject==1.0) (2.8.1)
+Requirement already satisfied: Mako in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from alembic<=1.4.1->mlflow->mlproject==1.0) (1.1.4)
+Requirement already satisfied: tabulate>=0.7.7 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from databricks-cli>=0.8.7->mlflow->mlproject==1.0) (0.8.9)
+Requirement already satisfied: websocket-client>=0.32.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from docker>=4.0.0->mlflow->mlproject==1.0) (1.1.0)
+Requirement already satisfied: gitdb<5,>=4.0.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gitpython>=2.1.0->mlflow->mlproject==1.0) (4.0.7)
+Requirement already satisfied: smmap<5,>=3.0.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from gitdb<5,>=4.0.1->gitpython>=2.1.0->mlflow->mlproject==1.0) (4.0.0)
+Requirement already satisfied: greenlet!=0.4.17 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from sqlalchemy->mlflow->mlproject==1.0) (1.1.1)
+Requirement already satisfied: itsdangerous>=2.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from Flask->mlflow->mlproject==1.0) (2.0.1)
+Requirement already satisfied: Werkzeug>=2.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from Flask->mlflow->mlproject==1.0) (2.0.1)
+Requirement already satisfied: Jinja2>=3.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from Flask->mlflow->mlproject==1.0) (3.0.1)
+Requirement already satisfied: MarkupSafe>=2.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from Jinja2>=3.0->Flask->mlflow->mlproject==1.0) (2.0.1)
+Requirement already satisfied: prometheus-client in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from prometheus-flask-exporter->mlflow->mlproject==1.0) (0.11.0)
+Requirement already satisfied: iniconfig in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from pytest->mlproject==1.0) (1.1.1)
+Requirement already satisfied: pluggy<1.0.0a1,>=0.12 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from pytest->mlproject==1.0) (0.13.1)
+Requirement already satisfied: toml in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from pytest->mlproject==1.0) (0.10.2)
+Requirement already satisfied: py>=1.8.2 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from pytest->mlproject==1.0) (1.10.0)
+Requirement already satisfied: aiobotocore>=1.0.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from s3fs->mlproject==1.0) (1.3.3)
+Requirement already satisfied: aioitertools>=0.5.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiobotocore>=1.0.1->s3fs->mlproject==1.0) (0.8.0)
+Requirement already satisfied: wrapt>=1.10.10 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiobotocore>=1.0.1->s3fs->mlproject==1.0) (1.12.1)
+Requirement already satisfied: botocore<1.20.107,>=1.20.106 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from aiobotocore>=1.0.1->s3fs->mlproject==1.0) (1.20.106)
+Requirement already satisfied: jmespath<1.0.0,>=0.7.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from botocore<1.20.107,>=1.20.106->aiobotocore>=1.0.1->s3fs->mlproject==1.0) (0.10.0)
+Requirement already satisfied: scipy>=0.19.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from scikit-learn->mlproject==1.0) (1.7.0)
+Requirement already satisfied: threadpoolctl>=2.0.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from scikit-learn->mlproject==1.0) (2.1.0)
+Requirement already satisfied: pkginfo>=1.4.2 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (1.7.1)
+Requirement already satisfied: keyring>=15.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (23.1.0)
+Requirement already satisfied: rfc3986>=1.4.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (1.5.0)
+Requirement already satisfied: tqdm>=4.14 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (4.61.1)
+Requirement already satisfied: readme-renderer>=21.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (29.0)
+Requirement already satisfied: colorama>=0.4.3 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (0.4.4)
+Requirement already satisfied: importlib-metadata>=3.6 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (4.6.4)
+Requirement already satisfied: requests-toolbelt!=0.9.0,>=0.8.0 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from twine->mlproject==1.0) (0.9.1)
+Requirement already satisfied: zipp>=0.5 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from importlib-metadata>=3.6->twine->mlproject==1.0) (3.5.0)
+Requirement already satisfied: Pygments>=2.5.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from readme-renderer>=21.0->twine->mlproject==1.0) (2.9.0)
+Requirement already satisfied: docutils>=0.13.1 in /Users/finnzurmuehlen/.pyenv/versions/3.8.6/envs/lewagon/lib/python3.8/site-packages (from readme-renderer>=21.0->twine->mlproject==1.0) (0.
